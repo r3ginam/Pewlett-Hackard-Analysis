@@ -11,6 +11,9 @@ Pewlett Hackard is a large company that needs to look ahead to understand who wi
 
 ![](Data/total_retiring_pie.png)
 
+![](Data/new_openings_per_mentor.png)
+
+
 ## Summary
 
 
