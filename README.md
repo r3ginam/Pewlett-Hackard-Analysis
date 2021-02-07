@@ -36,4 +36,6 @@ The summary addresses the following two questions:
   
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
   
-  - At this point, it would be very difficult to successfully mentor the next generation of employees based on the current criteria for the mentorship program. Senior staff mentors would need to mentor about 85 people each, which is way too many to be successful. Even staff mentors would need to mentor around 20 new employees each. Based on this analysis, it might be best to promote staff members to senior staff, who would need less mentorship. Then, hire new staff.
+  - At this point, it would be very difficult to successfully mentor the next generation of employees based on the current criteria for the mentorship program. 
+  - Senior staff mentors would need to mentor about 85 people each, which is way too many to be successful. Staff mentors would need to mentor around 20 new employees each.
+  - Based on this analysis, it might be best to promote staff members to senior staff, who would need less mentorship. Then, hire new employees for the lower level titles.
