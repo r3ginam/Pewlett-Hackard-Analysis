@@ -31,7 +31,9 @@ In order to understand where the greatest need is for mentorship, the analyst co
 The summary addresses the following two questions:
 
 - How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-  -- In total, 90,398 roles will need to be filled. To see this broken down by title, please see the first graphic in the *Results* portion of this analysis.
+  
+  - In total, 90,398 roles will need to be filled. To see this broken down by title, please see the first graphic in the *Results* portion of this analysis.
   
 - Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
-  -- At this point, it would be very difficult to successfully mentor the next generation of employees based on the current criteria for the mentorship program. Senior staff mentors would need to mentor about 85 people each, which is way too many to be successful. Even staff mentors would need to mentor around 20 new employees each. Based on this analysis, it might be best to promote staff members to senior staff, who would need less mentorship. Then, hire new staff.
+  
+  - At this point, it would be very difficult to successfully mentor the next generation of employees based on the current criteria for the mentorship program. Senior staff mentors would need to mentor about 85 people each, which is way too many to be successful. Even staff mentors would need to mentor around 20 new employees each. Based on this analysis, it might be best to promote staff members to senior staff, who would need less mentorship. Then, hire new staff.
